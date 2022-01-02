@@ -1,0 +1,1 @@
+export const logger = () => 'Hello from common!!!$'
